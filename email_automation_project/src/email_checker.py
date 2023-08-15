@@ -2,7 +2,8 @@ import imaplib
 import email, re
 import sys, threading, time
 
-sys.path.append('D:\pythonProject29\email_automation_project')  # Adjust this path accordingly
+sys.path.append('/path/to/your/project')  # Adjust this path accordingly
+# eg : D:\pythonProject29\email_automation_project
 from config.config import SMTP_SERVER, SMTP_PORT, SENDER_EMAIL, SENDER_PASSWORD
 
 
