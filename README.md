@@ -21,7 +21,7 @@ This project implements an email automation system with two main functionalities
 1) Install my-project with git clone command
 
 ```bash
-  git clone https://github.com/yourusername/email-automation-project.git
+  git clone https://github.com/a7k4a6s3h0/Email-Automation-project.git
 
 ```
 2) Then access the project directory
